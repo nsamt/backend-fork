@@ -17,7 +17,7 @@ import { AuthModule } from './auth/auth.module';
       host: 'mudapp-mudapp.a.aivencloud.com',
       port: 22116,
       username: 'avnadmin',
-      password: 'AVNS_BPY9-lEHtEAPx_j04Ck',
+      password: 'AVNS_hrKqpPiiy920OvJoLs_',
       database: 'mudapp',
       entities: [User, Provider, Ticket],
       synchronize: false,
